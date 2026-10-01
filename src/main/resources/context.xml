@@ -143,7 +143,7 @@
     </mvc:interceptors>
 
 
-    <import resource="context-shiro.xml"/>
+    
     <import resource="context-activiti.xml"/>
 
     <mvc:view-controller path="demo" view-name="/theme/default/login"/>
