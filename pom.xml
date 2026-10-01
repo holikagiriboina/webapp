@@ -60,12 +60,8 @@
     <artifactId>spring-tx</artifactId>
     <version>5.3.39</version>
 </dependency>
-<!-- Apache Shiro -->
-<dependency>
-    <groupId>org.apache.shiro</groupId>
-    <artifactId>shiro-spring</artifactId>
-    <version>1.13.0</version>
-</dependency>
+
+
 
     </dependencies>
 
